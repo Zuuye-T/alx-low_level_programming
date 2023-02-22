@@ -18,11 +18,8 @@ void print_to_98(int n)
 		for (i = n ; i <= 98 ; i++)
 		{
 			printf("%d", i);
-<<<<<<< HEAD
 			if (i != 98)
 				printf(", ");
-=======
->>>>>>> 2b1d6449e016efdf9caf37d96564d5e8ef958cfb
 		}
 		printf("\n");
 	}
